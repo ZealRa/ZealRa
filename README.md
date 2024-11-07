@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A Junior Developer from France</h3>
 
+- 💻 I studied Web Development at The Hacking Project 
+
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **React**
